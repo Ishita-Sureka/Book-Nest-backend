@@ -16,7 +16,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'https://main.dr06ddvd7a4iq.amplifyapp.com', // Allow requests from the frontend
+  origin: 'https://main.d3i4hcqe7j1j7m.amplifyapp.com/', // Allow requests from the frontend
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));
